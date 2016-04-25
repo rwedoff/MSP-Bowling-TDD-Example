@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MSPBowlingScoring", "MSPBowlingScoring\MSPBowlingScoring.csproj", "{3DA6AE30-1C70-42FF-B55F-A36BC808C70C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTest", "BowlingTest\BowlingTest.csproj", "{B81872E5-425A-4FC2-9896-85178865DCAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingGameMyTake", "BowlingGameMyTake\BowlingGameMyTake.csproj", "{8D412938-BF41-4319-9D91-803A46CC8E4C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{3DA6AE30-1C70-42FF-B55F-A36BC808C70C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DA6AE30-1C70-42FF-B55F-A36BC808C70C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DA6AE30-1C70-42FF-B55F-A36BC808C70C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B81872E5-425A-4FC2-9896-85178865DCAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B81872E5-425A-4FC2-9896-85178865DCAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B81872E5-425A-4FC2-9896-85178865DCAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B81872E5-425A-4FC2-9896-85178865DCAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D412938-BF41-4319-9D91-803A46CC8E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D412938-BF41-4319-9D91-803A46CC8E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D412938-BF41-4319-9D91-803A46CC8E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D412938-BF41-4319-9D91-803A46CC8E4C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
